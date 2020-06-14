@@ -1,7 +1,7 @@
-# JS Relay Timer
-This is simple JS stopwatch that uses setinterval to update the display of the timer.
+# Reactjs Relay Timer
+This is simple JS relay timer/stopwatch developed using the Reactjs framework that uses setinterval to update the display of the timer.
 Use for home workouts and other activities.
-Includes changeable session & break interval timers
+Includes changeable session & break interval timers.
 
 A demo can be found here:
 https://aaronrbetts.github.io/relay-timer
@@ -76,4 +76,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# relay-timer
