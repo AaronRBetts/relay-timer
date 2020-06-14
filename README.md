@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# JS Relay Timer
+This is simple JS stopwatch that uses setinterval to update the display of the timer.
+Use for home workouts and other activities.
+Includes changeable session & break interval timers
+
+A demo can be found here:
+https://aaronrbetts.github.io/relay-timer
+
+## Requirements
+npm
+create-react-app
 
 ## Available Scripts
 
