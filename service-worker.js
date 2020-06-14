@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/relay-timer/precache-manifest.363c249b087fb12a32dafe4c84af9590.js"
+  "/relay-timer/precache-manifest.ff980138351a019673d2129dd2240845.js"
 );
 
 self.addEventListener('message', (event) => {
