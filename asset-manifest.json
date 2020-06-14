@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/relay-timer/static/css/main.e0929319.chunk.css",
+    "main.js": "/relay-timer/static/js/main.01c8a325.chunk.js",
+    "main.js.map": "/relay-timer/static/js/main.01c8a325.chunk.js.map",
+    "runtime-main.js": "/relay-timer/static/js/runtime-main.61461fc7.js",
+    "runtime-main.js.map": "/relay-timer/static/js/runtime-main.61461fc7.js.map",
+    "static/js/2.4e6b2970.chunk.js": "/relay-timer/static/js/2.4e6b2970.chunk.js",
+    "static/js/2.4e6b2970.chunk.js.map": "/relay-timer/static/js/2.4e6b2970.chunk.js.map",
+    "index.html": "/relay-timer/index.html",
+    "precache-manifest.6d5a3c9b5af23b00de6c8c4cd90d6b2a.js": "/relay-timer/precache-manifest.6d5a3c9b5af23b00de6c8c4cd90d6b2a.js",
+    "service-worker.js": "/relay-timer/service-worker.js",
+    "static/css/main.e0929319.chunk.css.map": "/relay-timer/static/css/main.e0929319.chunk.css.map",
+    "static/js/2.4e6b2970.chunk.js.LICENSE.txt": "/relay-timer/static/js/2.4e6b2970.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61461fc7.js",
+    "static/js/2.4e6b2970.chunk.js",
+    "static/css/main.e0929319.chunk.css",
+    "static/js/main.01c8a325.chunk.js"
+  ]
+}
